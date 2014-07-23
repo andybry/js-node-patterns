@@ -1,0 +1,21 @@
+{
+  "name": "js-node-patterns",
+  "version": "0.0.0",
+  "description": "Demonstration of how to implement js-patterns on the server side",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andybry/js-node-patterns"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/andybry/js-node-patterns/issues"
+  },
+  "dependencies": {
+    "underscore": "~1.6.0"
+  }
+}
